@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2026-11-11T15:20:19.163004",
+    "make_query": "honda",
+    "makes_count": 0,
+    "models": [],
+    "models_count": 0,
+    "errors": [
+      "Не удалось получить модели для honda",
+      "Не удалось получить список марок"
+    ]
+  },
+  {
+    "timestamp": "2026-11-11T15:20:25.158774",
+    "make_query": "toyota",
+    "makes_count": 0,
+    "models": [],
+    "models_count": 0,
+    "errors": [
+      "Не удалось получить модели для toyota",
+      "Не удалось получить список марок"
+    ]
+  },
+  {
+    "timestamp": "2026-11-11T15:20:25.158753",
+    "make_query": "ford",
+    "makes_count": 0,
+    "models": [],
+    "models_count": 0,
+    "errors": [
+      "Не удалось получить модели для ford",
+      "Не удалось получить список марок"
+    ]
+  }
+]
